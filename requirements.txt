@@ -12,5 +12,5 @@ jsonschema
 tmdbv3api
 lxml
 urllib3
-requests
 pickleshare
+requests
